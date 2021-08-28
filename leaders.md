@@ -1,3 +1,4 @@
-- Prof. (Dr.) S. D. Panchal (Faculty Advisor) - 
-- Prof. Seema B. Joshi (Faculty Leader) - seema.joshi@owasp.org
-- Smita (Student Leader) - 
+**Leaders**
+ - [Seema B. Joshi](seema.joshi@owasp.org)
+ - [S. D. Panchal](sd.panchal@owasp.org)
+ - [Smita Smita](smita.smita@owasp.org) 
